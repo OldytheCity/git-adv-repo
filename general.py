@@ -12,10 +12,3 @@ print(my_list)
 my_list.remove("cherry")
 print(item)
 print(my_list)
-
-
-# sort 
-
-
-
-
